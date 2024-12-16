@@ -1,0 +1,2 @@
+<h1>ExtractBMP</h1>
+This is a program I wrote several years ago in VS 2013 to extract bitmap images from a .DAT file found in an old, discontinued poker game. I will not include the asset's from the original game due to copyright, but I will say the assets were essentially written sequentially into a single DAT file without any special encryption, making them rather easy to parse into individual bitmap files.
