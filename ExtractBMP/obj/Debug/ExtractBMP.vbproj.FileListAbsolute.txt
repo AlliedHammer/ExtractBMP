@@ -1,0 +1,21 @@
+C:\Users\Allen\AppData\Local\Temporary Projects\ExtractBMP\bin\Debug\ExtractBMP.exe.config
+C:\Users\Allen\AppData\Local\Temporary Projects\ExtractBMP\bin\Debug\ExtractBMP.exe
+C:\Users\Allen\AppData\Local\Temporary Projects\ExtractBMP\bin\Debug\ExtractBMP.pdb
+C:\Users\Allen\AppData\Local\Temporary Projects\ExtractBMP\bin\Debug\ExtractBMP.xml
+C:\Users\Allen\AppData\Local\Temporary Projects\ExtractBMP\obj\Debug\ExtractBMP.Form1.resources
+C:\Users\Allen\AppData\Local\Temporary Projects\ExtractBMP\obj\Debug\ExtractBMP.Resources.resources
+C:\Users\Allen\AppData\Local\Temporary Projects\ExtractBMP\obj\Debug\ExtractBMP.vbproj.GenerateResource.Cache
+C:\Users\Allen\AppData\Local\Temporary Projects\ExtractBMP\obj\Debug\ExtractBMP.exe
+C:\Users\Allen\AppData\Local\Temporary Projects\ExtractBMP\obj\Debug\ExtractBMP.xml
+C:\Users\Allen\AppData\Local\Temporary Projects\ExtractBMP\obj\Debug\ExtractBMP.pdb
+C:\Users\Allen\Documents\Visual Studio 2013\Projects\ExtractBMP\ExtractBMP\bin\Debug\ExtractBMP.exe.config
+C:\Users\Allen\Documents\Visual Studio 2013\Projects\ExtractBMP\ExtractBMP\obj\Debug\ExtractBMP.exe
+C:\Users\Allen\Documents\Visual Studio 2013\Projects\ExtractBMP\ExtractBMP\obj\Debug\ExtractBMP.xml
+C:\Users\Allen\Documents\Visual Studio 2013\Projects\ExtractBMP\ExtractBMP\obj\Debug\ExtractBMP.pdb
+C:\Users\Allen\Documents\Visual Studio 2013\Projects\ExtractBMP\ExtractBMP\bin\Debug\ExtractBMP.exe
+C:\Users\Allen\Documents\Visual Studio 2013\Projects\ExtractBMP\ExtractBMP\bin\Debug\ExtractBMP.pdb
+C:\Users\Allen\Documents\Visual Studio 2013\Projects\ExtractBMP\ExtractBMP\bin\Debug\ExtractBMP.xml
+C:\Users\Allen\Documents\Visual Studio 2013\Projects\ExtractBMP\ExtractBMP\obj\Debug\ExtractBMP.Resources.resources
+C:\Users\Allen\Documents\Visual Studio 2013\Projects\ExtractBMP\ExtractBMP\obj\Debug\ExtractBMP.vbproj.GenerateResource.Cache
+C:\Users\Allen\Documents\Visual Studio 2013\Projects\ExtractBMP\ExtractBMP\obj\Debug\ExtractBMP.vbprojResolveAssemblyReference.cache
+C:\Users\Allen\Documents\Visual Studio 2013\Projects\ExtractBMP\ExtractBMP\obj\Debug\ExtractBMP.ExtractBMP.resources
